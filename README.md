@@ -1,5 +1,5 @@
 # Console_BrickGame_Tetris
-Implementation of console tetris version for Ubuntu
+Implementation of console tetris game for Ubuntu
 
 ## Contents(#Console_BrickGame_Tetris)
 1. [Building project](#building-project)
